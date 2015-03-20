@@ -42,3 +42,11 @@ if you want to release build.
 [hisasann](https://github.com/hisasann)
 
 :arrow_up: enjoy! :arrow_up:
+
+## via
+
+[http://qiita.com/futoase/items/867d17c07b6b64fa3411](http://qiita.com/futoase/items/867d17c07b6b64fa3411)
+[http://qiita.com/koba04/items/a62a30c6934466ea8dea](http://qiita.com/koba04/items/a62a30c6934466ea8dea)
+[https://github.com/reactjs/express-react-views/blob/master/index.js](https://github.com/reactjs/express-react-views/blob/master/index.js)
+[https://github.com/koba04/react-server-side-rendering-sample/blob/minimum/app.js](https://github.com/koba04/react-server-side-rendering-sample/blob/minimum/app.js)
+[https://github.com/mhart/react-server-example](https://github.com/mhart/react-server-example)
